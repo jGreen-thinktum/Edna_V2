@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980544500518",
+    "firebase_url": "https://ednav2.firebaseio.com",
+    "project_id": "ednav2",
+    "storage_bucket": "ednav2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980544500518:android:b7694a7f5d07e7be5707e7",
+        "android_client_info": {
+          "package_name": "com.thinktum.edna_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980544500518-l70u8rin59ohief8p0mgf9lgt3thh76b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thinktum.edna_v2",
+            "certificate_hash": "e0cad0254e49d108a72fc4135bcff7144eef3273"
+          }
+        },
+        {
+          "client_id": "980544500518-tiiv03uo4hkkm9hc7g7q1lu9l9c9a3n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPyMchZYqdvDSgw4uSfw5mSmhwvjS5-iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980544500518-tiiv03uo4hkkm9hc7g7q1lu9l9c9a3n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=E0:CA:D0:25:4E:49:D1:08:A7:2F:C4:13:5B:CF:F7:14:4E:EF:32:73%3Bcom.thinktum.edna_v2
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.thinktum.edna_v2
+
+    SHA-1 certificate fingerprint:
+    E0:CA:D0:25:4E:49:D1:08:A7:2F:C4:13:5B:CF:F7:14:4E:EF:32:73
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA3Bn6PHtbonrg1UZxDRb1lsDxBZ09gDYk</string>
+</resources>
